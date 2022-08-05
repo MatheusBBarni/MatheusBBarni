@@ -29,7 +29,7 @@ My name is Matheus Brehm Barni, or just Barni, I'm from Brazil and I'm a softwar
     <img src="https://img.shields.io/badge/links-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
   </a>
   <a href="mailto:brehm.matheus@hotmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/matheusbrehmbarni/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
