@@ -14,12 +14,12 @@ My name is Matheus Brehm Barni, or just Barni, I'm from Brazil and I'm a softwar
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="matheus-rescript" height="35" width="100" src="https://img.shields.io/badge/rescript-13162c?style=for-the-badge&logo=Rescript&logoColor=#e6494f">
-  <img align="center" alt="matheus-react" height="35" width="100" src="https://img.shields.io/badge/react-13162c?style=for-the-badge&logo=React">
-  <img align="center" alt="matheus-javascript" height="35" width="100" src="https://img.shields.io/badge/javascript-13162c?style=for-the-badge&logo=Javascript">
-  <img align="center" alt="matheus-typescript" height="35" width="100" src="https://img.shields.io/badge/typescript-13162c?style=for-the-badge&logo=Typescript">
-  <img align="center" alt="matheus-nodejs" height="35" width="100" src="https://img.shields.io/badge/node.js-13162c?style=for-the-badge&logo=Node.js">
-  <img align="center" alt="matheus-rust" height="35" width="100" src="https://img.shields.io/badge/rust-13162c?style=for-the-badge&logo=Rust">
+  <img align="center" alt="matheus-rescript" height="35" width="120" src="https://img.shields.io/badge/rescript-13162c?style=for-the-badge&logo=Rescript&logoColor=#e6494f" style="margin-bottom: 5px">
+  <img align="center" alt="matheus-react" height="35" width="120" src="https://img.shields.io/badge/react-13162c?style=for-the-badge&logo=React" style="margin-bottom: 5px">
+  <img align="center" alt="matheus-javascript" height="35" width="120" src="https://img.shields.io/badge/javascript-13162c?style=for-the-badge&logo=Javascript" style="margin-bottom: 5px">
+  <img align="center" alt="matheus-typescript" height="35" width="120" src="https://img.shields.io/badge/typescript-13162c?style=for-the-badge&logo=Typescript" style="margin-bottom: 5px">
+  <img align="center" alt="matheus-nodejs" height="35" width="120" src="https://img.shields.io/badge/node.js-13162c?style=for-the-badge&logo=Node.js" style="margin-bottom: 5px">
+  <img align="center" alt="matheus-rust" height="35" width="120" src="https://img.shields.io/badge/rust-13162c?style=for-the-badge&logo=Rust" style="margin-bottom: 5px">
 </div>
 
 ##
