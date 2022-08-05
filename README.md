@@ -7,7 +7,7 @@ My name is Matheus Brehm Barni, or just Barni, I'm from Brazil and I'm a softwar
 
 <div align="center">
   <a href="https://github.com/MatheusBBarni">
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusBBarni&layout=compact&theme=dracula"/>
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusBBarni&layout=compact&theme=dracula&hide=html"/>
   </a>
 </div>
 
