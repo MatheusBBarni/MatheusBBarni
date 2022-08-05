@@ -9,12 +9,14 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="matheus-rescript" height="45" width="100" src="https://img.shields.io/badge/rescript-13162c?style=for-the-badge&logo=Rescript&logoColor=#e6494f">
-  <img align="center" alt="matheus-react" height="45" width="100" src="https://img.shields.io/badge/react-13162c?style=for-the-badge&logo=React">
-  <img align="center" alt="matheus-javascript" height="45" width="100" src="https://img.shields.io/badge/javascript-13162c?style=for-the-badge&logo=Javascript">
-  <img align="center" alt="matheus-typescript" height="45" width="100" src="https://img.shields.io/badge/typescript-13162c?style=for-the-badge&logo=Typescript">
-  <img align="center" alt="matheus-nodejs" height="45" width="100" src="https://img.shields.io/badge/node.js-13162c?style=for-the-badge&logo=Node.js">
+  <img align="center" alt="matheus-rescript" height="35" width="100" src="https://img.shields.io/badge/rescript-13162c?style=for-the-badge&logo=Rescript&logoColor=#e6494f">
+  <img align="center" alt="matheus-react" height="35" width="100" src="https://img.shields.io/badge/react-13162c?style=for-the-badge&logo=React">
+  <img align="center" alt="matheus-javascript" height="35" width="100" src="https://img.shields.io/badge/javascript-13162c?style=for-the-badge&logo=Javascript">
+  <img align="center" alt="matheus-typescript" height="35" width="100" src="https://img.shields.io/badge/typescript-13162c?style=for-the-badge&logo=Typescript">
+  <img align="center" alt="matheus-nodejs" height="35" width="100" src="https://img.shields.io/badge/node.js-13162c?style=for-the-badge&logo=Node.js">
 </div>
+
+##
 
 <div> 
   <a href="https://bio.link/matheusbbarni" target="_blank">
